@@ -10,15 +10,15 @@ If you are already convinced that the current Internet/web is broken, you can sk
 
 ## Contents
 
- 0. [Introduction](0 Introduction.md)
- 1. [The Web In 2017 - Structural Failure At Every Level](1 Web 2017.md)
+ 0. [Introduction](0%20Introduction.md)
+ 1. [The Web In 2017 - Structural Failure At Every Level](1%20Web%202017.md)
      * A Beastiary of Obvious Failures
      * The Attention Economy, Servant of Growth Capitalism
      * From Connection to Consumption
      * The Chinese Model
      * An American Model
 
- 2. [The Web We Lost](2 The Web We Lost.md)
+ 2. [The Web We Lost](2%20The%20Web%20We%20Lost.md)
  3. The Root Problems
 
  4. A Humane Network
