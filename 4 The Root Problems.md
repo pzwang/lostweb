@@ -23,6 +23,10 @@ Main Thrusts:
     * Without this kind of structure, we are tribe-less.  In that disoriented state, we naturally line up behind the information mechanisms which are most comforting to us.
     * We have supplanted these structures with bad digital substitutes, simply because digital communications are now the default medium.
 
+  * We Must Destroy the Internet
+  
+    * Architecturally, treat it as commodity transport, with pervasive hostile actors leeching metadata about connections and realtime streams
+    * Mesh networks
 
 Protocol Failure
 ----------------
@@ -53,7 +57,7 @@ It’s not like we’re making heat-seeking bullets that only target children, i
 
 The reason is because the technical architecture directly lays out what is and isn’t possible for application design; and when we build apps in certain ways, we separate users from their data, and get to deeply inspect their every action.  This is especially pernicious when the apps are used as the medium of communications between individuals in their *private* lives, where they have deeply personal and intimate interactions with their friends and loved ones.
 
-With “social sharing” sites like Instagram, we’re training a new generation to literally be attention whores: giving up what should be their intimate lives, to power inferential engines owned by the largest companies, so that they get debased and artificial “social currency”.
+With “social sharing” sites like Instagram, we’re training a new generation to literally be attention whores: giving up what should be their intimate lives, to power inferential engines owned by the largest companies, so that they get debased for artificial “social currency”.
 
 The cost of this to each individual, and to society at large, is not typically contemplated.  But it is vast.  We are raising an entire generation of children and teenagers on a sugar diet that displaces all else in their lives.  We are force-feeding this same sugar down the throats of adults who are old enough to know that this doesn’t feel right, but don’t know how, as individuals, they can stop the spiral of social regression and private degeneration.
 
