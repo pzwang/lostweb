@@ -19,9 +19,12 @@ If you are already convinced that the current Internet/web is broken, you can sk
      * An American Model
 
  2. [The Web We Lost](2%20The%20Web%20We%20Lost.md)
- 3. The Root Problems
 
- 4. A Humane Network
+ 3. [Centralized Social Media Is Broken By Design](3%20Centralized%20Social%20Media%20Is%20Broken%20By%20Design.md)
+
+ 4. [The Root Problems](4%20The%20Root%20Problems.md)
+
+ 5. A Humane Network
     * The Core Challenge - What is the right technological infrastructure that supplements, extends, and scales human networks, to achieve greater engagement, deeper trust, and emerges collective intelligence?
     * Computer Networks vs. Social Networks
     * The role of decentralized communication technology in bringing about a new, sustainable human ecology
@@ -29,14 +32,14 @@ If you are already convinced that the current Internet/web is broken, you can sk
     * The Internet Is Too Much
     * Anomie (in Clipped Articles Civ 2.0)
 
- 5. What Comes Next
+ 6. What Comes Next
     * What are current stop-gap tech approaches, and why are they not enough?
     * 4 Layers of Fail
     * Challenges for any distributed data application system
 
- 6. Beaker and Dat
+ 7. Beaker and Dat
 
- 7. Appendix A. What About _____?
+ 8. Appendix A. What About _____?
     * ZeroNet
     * Matrix
     * IPFS
