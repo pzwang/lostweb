@@ -2,13 +2,12 @@ The Root Problems of the Modern Internet
 ========================================
 
 Main Thrusts:
-  * Lack of federated, open identity protocol
-     - need to somehow make forward reference to importance of identity in section 4
-  
-  * Network of computers != network of people; web of servers, instead of web of content
-  
-  * Centralized "Social Media" Considered Harmful
 
+  * Protocol failure: Lack of federated, open identity protocol
+     - (need to somehow make forward reference to importance of identity in section 4)
+  
+  * Topology failure: Network of computers != network of people; web of servers, instead of web of content
+  
   * Core problems:
     * Loss of trust / loss of accountability b/c there is no Identity protocol; Analogue of a world where polyjuice potion exists
     * Peak words
@@ -16,6 +15,8 @@ Main Thrusts:
     * Synchronicity and "ringing"
     * Web of servers, instead of web of content. The Internet has always been an IoT. How do we layer a Web of Communities on top of that?
 
+  * Why does the question of morality arise when it comes to API design?
+  
   * This is critically important:
 
     * Historically we have had a hierarchical method for sense-making.  We trusted institutions of various types to serve in differnet roles in that sense-making infrastructure.
