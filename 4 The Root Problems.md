@@ -45,6 +45,25 @@ Internet is based on principle of "intelligence at the edge, network is dumb". F
 But for a *network of humans* in a society, this is completely, totally backwards!  The social graph *is* the value that amplifies the intelligence of all of the individuals within it.  This is the core motivation for taking a completely different tack for envisioning the future of a Distributed Information System.
 
 
+Why does the question of morality arise when it comes to API design?
+--------------------------------------------------------------------
+
+It’s not like we’re making heat-seeking bullets that only target children, it’s just functions and data being stored in a database over here instead of over there…
+
+The reason is because the technical architecture directly lays out what is and isn’t possible for application design; and when we build apps in certain ways, we separate users from their data, and get to deeply inspect their every action.  This is especially pernicious when the apps are used as the medium of communications between individuals in their *private* lives, where they have deeply personal and intimate interactions with their friends and loved ones.
+
+With “social sharing” sites like Instagram, we’re training a new generation to literally be attention whores: giving up what should be their intimate lives, to power inferential engines owned by the largest companies, so that they get debased and artificial “social currency”.
+
+The cost of this to each individual, and to society at large, is not typically contemplated.  But it is vast.  We are raising an entire generation of children and teenagers on a sugar diet that displaces all else in their lives.  We are force-feeding this same sugar down the throats of adults who are old enough to know that this doesn’t feel right, but don’t know how, as individuals, they can stop the spiral of social regression and private degeneration.
+
+Our private selves matter.
+
+Consider this simple nuance of software or API design: the visibility of the To: field in email. If SMTP had been designed with BCC as the default, what would our communications patterns look like? Alternatively, what if email included an explicit list of all the people who could see the email? What if read-receipts were always sent, and could not be turned off? What if people could set a quota on how many emails they accept in a day, and senders had to bid on inbox access, and receivers could set different rates for different sender classes? Etc.
+
+Software for human communications is extremely subtle.
+
+
+
 Further Reading
 ---------------
 

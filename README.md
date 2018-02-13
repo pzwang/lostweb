@@ -11,6 +11,7 @@ If you are already convinced that the current Internet/web is broken, you can sk
 ## Contents
 
  0. [Introduction](0%20Introduction.md)
+ 
  1. [The Web In 2017 - Structural Failure At Every Level](1%20Web%202017.md)
      * A Beastiary of Obvious Failures
      * The Attention Economy, Servant of Growth Capitalism
@@ -40,12 +41,32 @@ If you are already convinced that the current Internet/web is broken, you can sk
  7. Beaker and Dat
 
  8. Appendix A. What About _____?
-    * ZeroNet
+    * ZeroNet / Zero platform
     * Matrix
     * IPFS
     * Fermat
     * Urbit
     * Ethereum (and ether-related, e.g. https://www.uport.me/)
+    * SAFE network
+    * Blockstack
+    * Mastodon
+    * I2P
+    * DAOStack / Backfeed
+    * Consensys
+    * DFINITY
+    * cjdns
+    * Solid
+    * Syncthing
+    * WebTorrent
+    * StrongLink
+    * Twister
+    * Indie
+    * Cicada
+    * RetroShare
+    * Sovrin.org
+    * Xanadu
+    * FutureOfText.org
+    * [Akasha](https://blog.akasha.world/2018/02/10/akasha-beta-emergence/) (on Ethereum): 
     * (Hardware stacks)
 
 

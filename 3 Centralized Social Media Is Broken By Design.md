@@ -106,8 +106,6 @@ We Need a Platform for Intersubjectivity
 
   * "we need a platform for intersubjectivity" [see evernote]
 
-  * Why does the question of morality arise when it comes to API design? [see evernote]
-
   * Taking a more philosophical approach: Centralized Social Media has created a medium where intersubjectivity creates precipitates/artifacts with disorienting frequency.  This is what Scott Adams gets wrong about Trump: They marvel at the "stupidity" of literalists on the left (and right) who merely receive the waves of media messaging and respond to them.  Stimulus-response, you stupid libtard - don't you know you're being trolled?
 
     Facebook, Twitter drive all their revenue from monetizing attention.  They can only do that because they are gateways.  (Compare with web portal business model from the 90s)
@@ -117,6 +115,21 @@ We Need a Platform for Intersubjectivity
     If you're going to build a national messaging platform, then it's on you to enforce content standards at the level of truthfulness and intent. You can't be the sole source vendor of the entire counts food and pretend you don't have a duty to label its nutritional contents.  
 
     If FedEx started shipping mailbombs between people, how many nanoseconds would elapse before they shut everything down to figure out what happened?  Infobombs are worse, because the damage is long term and structural and invisible.
+
+  * Does the feed train us for shallowness?  Optimizing for outrage instead of insight
+
+The attention space of a society is a Commons
+---------------------------------------------
+
+Although it is always found to be extremely lucrative that is precisely because it's hard scarcity. It can be exploited for great gain by any communication technology or vendor or platform. Typically the standard means of exploitation of the attentional commons is through advertisement. More indirectly it can be profitable for people who wish to influence government policy and social directions.
+
+But this exploiation always comes at some cost. That cost also is typically invisible because it is generally the opportunity space of new possibilities for creative expression, collective sense making, and transformational ideas.
+
+Entities or businesses that monetize some amount of attentional space are driven by simple economics of scale. Like any good producer or vendor they wish to homogenize the raw materials, standardized processes for converting those raw materials into final product, and reduce the cost of inventory and transport of product to the end customer. In all cases with communication vendors, humans are the source from which the raw materials (attention) are gathered, and the customer is always some other entity (usually not a person) that wishes send a message or a signal to a mass of people.
+
+It is not difficult then to understand why communication technologies and their commercialization evolve the way they generally do. Very seldom do customers who wish to influence people have a finite Target Market in mind. In almost all cases, even if the advantages of their product has been broadcast to every single possible person that wishes to consume the product, there is always further advantage to be gained by reducing regulatory or social barriers to the business. This might be something as specific as environmental legislation or safety regulation, or something as general as lower tax rates or altered dynamics of the labor market.
+
+From this perspective one can see that the mere act of bundling attention - which is ultimately finite based on the number of living souls and waking hours available on planet Earth - that mere Act creates a power which cannot be anything but exploitative unless explicit external controls are put in place with regards to the use of such an aggregated channel. Furthermore any society that allows for such harvesting of attention within it exposes itself to (at best) wild variations and fluctuations in social temperament, and at worst to total exploitation and colonization or control, usually by trans-human entities.
 
 
 Further Reading
