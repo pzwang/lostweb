@@ -29,17 +29,24 @@ I. The Web We Lost
 
 II. The Web We Need
 
- 1. The Fundamental Question - What is the right technological infrastructure that supplements, extends, and scales human networks, to achieve greater engagement, deeper trust, and emerges collective intelligence?
+ 1. [Moral Philosphy for Digital Humanity](5%20Moral%20Philosophy%20for%20Digital%20Humanity.md)
+
+    * Why go so deep?  Why talk about philosophy??
+      * Human communications have undergone a phase transition.
+      * Peak words; semantic density of the human cognitive field is at breakdown voltage
+      * Four-dimensionality: Digital Humans are all ships of Theseus
+      * Sensemaking is not optional (draft)
+    * Social Physics
+        * Identity, Names, and the Social Field
+        * Privacy and Trust
+        * Self-hood and agency
+
+ 2. [The Humane Network](6%20The%20Humane%20Network.md)
+    * The Fundamental Question - What is the right technological infrastructure that supplements, extends, and scales human networks, to achieve greater engagement, deeper trust, and emerges collective intelligence?
     * Computer Networks vs. Social Networks
     * The role of decentralized communication technology in bringing about a new, sustainable human ecology
-    * Sensemaking is not optional (draft)
     * The Internet Is Too Much
     * Anomie (in Clipped Articles Civ 2.0)
-
- 2. Moral Philosphy for Digital Humanity
-    * Self-hood and agency
-    * Identity, privacy, and the social field
-    * Four-dimensionality: Digital Humans are all ships of Theseus
 
  3. What Could Come Next
     * What are current stop-gap tech approaches, and why are they not enough?
