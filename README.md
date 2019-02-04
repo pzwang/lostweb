@@ -21,11 +21,11 @@ I. The Web We Lost
        * The Chinese Model
        * An American Model
 
-    2. [The Web We Lost](2%20The%20Web%20We%20Lost.md)
+   2. [The Web We Lost](2%20The%20Web%20We%20Lost.md)
 
-    3. [Centralized Social Media Is Broken By Design](3%20Centralized%20Social%20Media%20Is%20Broken%20By%20Design.md)
+   3. [Centralized "Social Media" Is Harmful By Construction](3%20Centralized%20Social%20Media%20Is%20Broken%20By%20Design.md)
 
-    4. [The Root Problems](4%20The%20Root%20Problems.md)
+   4. [The Root Problems](4%20The%20Root%20Problems.md)
 
 II. The Web We Need
 
