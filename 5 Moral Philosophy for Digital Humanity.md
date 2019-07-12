@@ -8,30 +8,33 @@ Moral Philosophy for Digital Humanity
 
     For those who have the intellectual curiosity or the broader situational awareness to know that the substrate of humanity *is* indeed shifting, they are left with an unsettled sense that they don't have the right tools to begin to perceive, integrate, and model all the change.  If a noisy bar is blasting music from 10 different stations, you can tell there are notes and lyrics, but it's impossible to grasp on to any single thread of melody or even pick up a consistent bass beat.  This breakdown of perception is a metaphor for our modern-day breakdown of philosophy.
 
-    I think most people cannot conceive what is even meant by "a breakdown of philosophy".  In the Western world, we are taught basic concepts like "freedom", "rights", "property", "government", and because we grow up in a relatively stable environment where these concepts have coherent presentation in many walks of life, we take these philosophical constructs to concrete reality, and not merely subjective constructs.  In fact, so many of us live such a life of unviolent privilege that some very smart people will go so far as to claim certain aspects of human law are part of *natural law*.  In reality, they have just lived in a environment where most people adhere to the painted lines on the pavement - and those lines were painted hundreds or thousands of years ago by philosophers.
+    I think most people cannot conceive what is even meant by "a breakdown of philosophy".  In the Western world, we are taught basic concepts like "freedom", "rights", "property", "government", and because we grow up in a relatively stable environment where these concepts have coherent presentation in many walks of life, we take these philosophical constructs to be concrete reality, and not merely subjective constructs.  In fact, so many of us live a life of such unviolent privilege that some very smart people will go so far as to claim certain aspects of human law are part of *natural law*.  In reality, they have just lived in a environment where most people adhere to the painted lines on the pavement - and those lines were painted hundreds or thousands of years ago by philosophers.
 
-    But in this new virtual reality we've created, human law *is* natural law.  Or rather, human have self-elected to participate in a "virtual" (or, more aptly, "informational") plane where natural law is malleable.  Typically, the parameters of our online interactions are "frozen accident", laid down by grad students in the 1960s or by haphazard web developers in the 1990s and 2000s.  They were almost never designed to optimize for human quality of life when deployed at scale.
+    But in this new virtual reality we've created, human law *is* natural law.  Or rather, human have self-elected to participate in a "virtual" plane where natural law is malleable.  Typically, the parameters of our online interactions are "frozen accident", laid down by grad students in the 1960s or by haphazard web developers in the 1990s and 2000s.  They were almost never designed to optimize for human quality of life when deployed at scale.
 
     The Matrix really is a perfect metaphor for our times.  I have to admit I always found it a bit contrived that when you die in the Matrix, you also die in real life.  But now given what I've seen with online interactions, I can believe it, but maybe it plays out differently: when you get ejected from the Matrix, or when a dominant majority of your self-identity is manifest in cyberspace, if that gets trashed, you unplug and lose all will to live.  Your biological self continues, but you've died a social death; just as when your body dies, many of your cells will continue living for hours afterwards.  ("AFK, soon to be RIP")
+
+Thoughts to expand:
 
 * Human communications have undergone a phase transition.
     
     * Peak words; semantic density of the human cognitive field is at breakdown voltage
 
-    * Cannot model messages and text as artifacts on their own.  The New Medium of communications that has emerged - and this is not strictly social media per se, but social media platforms best demonstrate the phenomenon - allows for messages to resonate with and be modulated by individuals in realtime.
+    * Cannot model messages and text as artifacts on their own.  The New Medium of communications that has emerged - and this is not strictly social media per se, but social media platforms best demonstrate the phenomenon - allows for messages to resonate with and be modulated by individuals (or systems) in realtime.
 
     * Model of humans as bells with memory
 
     * Cannot simply view humans as individual atoms, and then solve from bottom up (individualist rights) or from top down (collectivism).  Instead, we must:
+    
       1. acknowledge that the mesoscale, emergent dynamics of large groups (10x-1000x Dunbar) now dominate civilization
       2. understand the role of information technology in organizing, destroying those groups
       3. build up new philosophy around this recognition: that humans are not atomic individuals unto themselves, but cells in a dynamical soup of loosely-cohered organisms.
 
-    * Both #2 and #3 require a consideration of mereology as a foundational, first-class concern.  Furthermore, in the face of the messy metaphysics of cyberspace and digital information, the need to adopt something like Four Dimensionalism becomes critical.  We cannot continue to reason about the world by building a metaphysics around "static snapshots", and then approach understanding of dynamics by stringing them together with a timeline.  Rather, we have to consider both temporal horizons as well as *sampling frequency* of phenomena in a holistic temporal metaphysics.
+    * Both #2 and #3 require a consideration of [mereology](https://en.wikipedia.org/wiki/Mereology) as a foundational, first-class concern.  Furthermore, in the face of the messy metaphysics of cyberspace and digital information, the need to adopt something like [Four Dimensionalism](https://en.wikipedia.org/wiki/Four-dimensionalism) becomes critical.  We cannot continue to reason about the world by building a metaphysics around "static snapshots", and then approach understanding of dynamics by stringing them together with a timeline.  Rather, we have to consider both temporal horizons as well as *sampling frequency* of phenomena in a holistic temporal metaphysics.
 
-* Groups of people create their own consensus reality.  In the first era of humanity, Reality was defined by consensus.  In the second era, it was defined by models, prediction, and experiment.  Models are needed in order to have Explicit Control.  In the third era, we stop needing reality to be defined in a way that fits within people's heads, and simply immerse ourselves in an experiential Present, confident that the structures we've created will enable our collective patterns of behavior to converge on optimal actions.
+* Groups of people create their own consensus reality.  In the first era of humanity, Reality was defined by consensus.  In the second era, it was defined by models, prediction, and experiment; and models were needed in order to have Explicit Control.  In the third era, we stop needing reality to be defined in a way that fits within people's heads, and simply immerse ourselves in an experiential Present, confident that the structures we've created will enable our collective patterns of behavior to converge on optimal actions.
 
-* Sensemaking is not optional (draft piece in Civ2.0 evernote)
+* Sensemaking is not optional (draft piece in my Civ2.0 Evernote)
 
 * Social Physics
     * Trust and Intertrust
@@ -58,7 +61,7 @@ As an aside, this "intertrust" phenomenon is also why cryptocurrencies based on 
 Privacy and Identity
 --------------------
 
-Privacy gives the space for us to become our future selves
+Privacy gives the space for us to become our future selves (See this twitter thread: https://twitter.com/pwang/status/1148911531515621380)
 
 Privacy is critical as part of the mechanism that the digital field lets give rise to identity.  This is because the social field is intersubjective, and a lack of privacy means that what we believe about our selves cannot diverge from what others believe about us (and one step further: what we believe about others' beliefs about us).  Without privacy, we have no space in which we can innovate and develop our future Selves. We have no space to think, imagine, dream, suffer, reflect, ...
 
